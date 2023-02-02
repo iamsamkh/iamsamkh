@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sameer Qaiser</h1>
+
 <h3 align="center">A resourceful Ruby On Rails Developer</h3>
+
+<img src="https://camo.githubusercontent.com/e2fe15a66a67c51d5783f2759125b3e78dcff341c6c21001a8a074c08008f32c/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f6c696e65733d527562792b6f6e2b5261696c732b446576656c6f7065723b4261636b656e642b456e67696e6565723b4769742b426173682b7a73683b4a732b646576656c6f7065722663656e7465723d747275652677696474683d353030266865696768743d3530" data-canonical-src="https://readme-typing-svg.herokuapp.com?lines=Ruby+on+Rails+Developer;Backend+Engineer;Git+Bash+zsh;Js+developer&amp;center=true&amp;width=500&amp;height=50" style="max-width: 100%;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsamkh&label=Profile%20views&color=0e75b6&style=flat" alt="iamsamkh" /> </p>
 
@@ -27,4 +30,7 @@
   <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsamkh&show_icons=true&locale=en&layout=compact" alt="iamsamkh" /></p>
+<p align="center" dir="auto"> 
+  Views<br>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4e7ba57cdca1605a099f9175601d8e470c362518153a141b249dfb84d257fb9c/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f4172656562416c616d39392f636f756e742e737667"><img src="https://camo.githubusercontent.com/4e7ba57cdca1605a099f9175601d8e470c362518153a141b249dfb84d257fb9c/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f4172656562416c616d39392f636f756e742e737667" data-canonical-src="https://profile-counter.glitch.me/iamsamkh/count.svg" style="max-width: 100%;"></a>
+</p>
